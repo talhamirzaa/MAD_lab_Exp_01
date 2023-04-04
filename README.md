@@ -1,10 +1,12 @@
-# secondfltter
+# First Flutter 
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+During this experiment, we acquired knowledge about the scaffold layout, widget hierarchy, and diverse widgets such as Text, TextStyle, Font, Image, Assets, Icons, Padding, and Center, among others.
 
 A few resources to get you started if this is your first Flutter project:
 
