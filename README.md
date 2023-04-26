@@ -1,4 +1,4 @@
-# Experiment No 1: First Flutter App
+# Experiment No 1: First Flutter Application
 
 A new Flutter project.
 This project is a starting point for a Flutter application.
